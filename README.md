@@ -9,6 +9,7 @@
 ---
 
 ## 사용한 라이브러리 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/tqdm-FFC107?style=for-the-badge&logo=python&logoColor=white">
 
 
 ---
