@@ -40,3 +40,9 @@
 ![TEST_002](https://github.com/user-attachments/assets/716367c2-60c2-4054-ad3c-53e179c445ac)
 ![TEST_002](https://github.com/user-attachments/assets/18fe69ad-5088-4a74-b8b7-a277fa7a2f7f)
 
+---
+
+## 최종결과 
+### 2024.12.09 기준 649명 중 10등
+![image](https://github.com/user-attachments/assets/2c2cb231-61c5-438f-9a69-d93a92beaba9)
+
