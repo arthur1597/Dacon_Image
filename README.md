@@ -43,6 +43,10 @@
 ---
 
 ## 최종결과 
-### 2024.12.09 기준 649명 중 10등
+### 2024.12.09 기준 649명 중 public 10등 private 5등
+Public
 ![image](https://github.com/user-attachments/assets/2c2cb231-61c5-438f-9a69-d93a92beaba9)
+private
+![image](https://github.com/user-attachments/assets/a8e3b6c2-e059-4821-afe6-3115a0a0d541)
+
 
